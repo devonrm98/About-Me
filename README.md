@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Devon Murray, a recent graduate with a B.S. in Computer Science, concentrated in Game Systems.
+- 👀 I’m a game developer, currently looking to start a project.
+- 📫 Discord is the best way to reach me: DevonM#6214
